@@ -1,4 +1,4 @@
-package com.vsened.cryptoinfoapp.presentation.coin_list
+package com.vsened.cryptoinfoapp.presentation.coins_list
 
 import com.vsened.cryptoinfoapp.domain.model.Coin
 
