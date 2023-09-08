@@ -44,7 +44,7 @@ fun CryptoInfoAppTheme(
         }
 
         darkTheme -> DarkColorPalette
-        else -> LightColorPalette
+        else -> DarkColorPalette
     }
     val view = LocalView.current
     if (!view.isInEditMode) {
